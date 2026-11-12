@@ -1,4 +1,4 @@
-# 3tsv Suite — 极简轻量的 VST3 混音套装
+# 3tsv Suite — 极简轻量的 VST3 混音套装 
 
 一套不到 3MB、解压即用、全自研的 VST3 插件套装。没有花里胡哨的界面，只有像螺丝刀一样趁手的混音工具。
 
@@ -15,6 +15,8 @@
 | **3tsvConvolute** | 卷积混响，加载自己的 WAV 脉冲响应 |
 | **3tsvTube** | 胆机饱和器，双三极管电路模型 |
 | **3tsvLimiter** | 带过采样的砖墙限制器 |
+
+<img width="1264" height="769" alt="004" src="https://github.com/user-attachments/assets/e458546a-0662-44c7-a07b-e8252f0fc99e" />
 
 ## 🎧 核心特性
 
